@@ -70,5 +70,3 @@ All contributions are managed here on GitHub for **transparency**, **tracking**,
 4. **Stay engaged** — Respond to maintainer questions to keep your submission moving.
 
 ---
-
-📥 **[Submit a New Issue](#)** | 📂 **[View Existing Issues](#)**
